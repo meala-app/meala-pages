@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.freehealth.meala",
+      "sha256_cert_fingerprints": [
+        "10:E8:23:67:CD:6D:0A:DD:A4:CA:6C:34:64:30:E3:8B:DC:B5:09:5A:BE:FA:F2:C8:23:C0:98:BE:30:71:C0:3F"
+      ]
+    }
+  }
+]
