@@ -1,5 +1,11 @@
 <head>
-    <script>window.location.replace("com.freehealth.meala://--/" + window.location.pathname);</script>
+    <script>
+        try {
+            window.location.replace("com.freehealth.meala://--/" + window.location.pathname);
+        } catch(err) {
+
+        }
+    </script>
     <meta name="apple-itunes-app" content="app-id={ITUNES_ID}" />
 </head>
 
